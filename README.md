@@ -8,6 +8,4 @@ I am a passionate AI Engineer and technology enthusiast who loves building innov
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Varsha-salimath&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!--->
